@@ -35,11 +35,11 @@ pip install git+https://github.com/zhijian-liu/torchpack.git@3a5a9f7ac665444e1eb
 
 | Model    | Top1 Acc | ImageNet Top5 Acc | Params |  MACs  |
 | -------- | :------: | :---------------: | :----: | :----: |
-| QT-ViT-1 |   79.6   |       94.7        |  9.4M  | 0.52G  |
-| QT-ViT-2 |   82.5   |       95.9        | 24.9M  | 1.60G  |
-| QT-ViT-3 |   83.9   |       96.7        | 49.7M  | 3.97G  |
+| [QT-ViT-1](https://drive.google.com/file/d/11TNSXvfNmNYbehHbmJDyxzEz7DNlezNK/view) |   79.6   |       94.7        |  9.4M  | 0.52G  |
+| [QT-ViT-2](https://drive.google.com/file/d/1DUzJ7-nCWHZrMfSX4MEXbAC4GGabQ5GA/view) |   82.5   |       95.9        | 24.9M  | 1.60G  |
+| [QT-ViT-3](https://drive.google.com/file/d/1uvQr0tE0Jy7VLCLFYraNKysPshlfw-La/view) |   83.9   |       96.7        | 49.7M  | 3.97G  |
 | QT-ViT-4 |   84.7   |       96.7        | 53.0M  | 5.26G  |
-| QT-ViT-5 |   85.2   |       97.0        | 64.1M  | 6.96G  |
+| [QT-ViT-5](https://drive.google.com/file/d/1YKOFu8PYQvHM89ZKB9P_2blcHInGKS3H/view) |   85.2   |       97.0        | 64.1M  | 6.96G  |
 | QT-ViT-6 |   86.0   |       97.3        | 246.8M | 27.60G |
 
 
