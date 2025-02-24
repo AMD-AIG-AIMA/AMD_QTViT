@@ -40,7 +40,7 @@ pip install git+https://github.com/zhijian-liu/torchpack.git@3a5a9f7ac665444e1eb
 | [QT-ViT-3](https://drive.google.com/file/d/1uvQr0tE0Jy7VLCLFYraNKysPshlfw-La/view) |   83.9   |       96.7        | 49.7M  | 3.97G  |
 | QT-ViT-4 |   84.7   |       96.7        | 53.0M  | 5.26G  |
 | [QT-ViT-5](https://drive.google.com/file/d/1YKOFu8PYQvHM89ZKB9P_2blcHInGKS3H/view) |   85.2   |       97.0        | 64.1M  | 6.96G  |
-| QT-ViT-6 |   86.0   |       97.3        | 246.8M | 27.60G |
+| [QT-ViT-6](https://drive.google.com/file/d/1MnAgjk_uOD6wH7QyCkF4z4bxJXQf4PTr/view) |   86.0   |       97.3        | 246.8M | 27.60G |
 
 
 
