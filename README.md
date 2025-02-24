@@ -18,7 +18,7 @@ pip install git+https://github.com/zhijian-liu/torchpack.git@3a5a9f7ac665444e1eb
 
 <details>
   <summary>ImageNet: https://www.image-net.org/</summary>
-
+</details>
 
   ```python
   Our code expects the ImageNet dataset directory to follow the following structure:
